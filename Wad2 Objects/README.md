@@ -5,12 +5,14 @@
 - No credit to me is required for these objects.
 
 # Historial:
-- Added TR1 big rat (won't work till TEN version 1.0.6)
+- Added TR3 Sophia
+- Added TR3 Puna and Lizard
+- Added TR1 big rat
 - Added TR4 jackals
 - Added TR3 cobras
 
 # Gallery:
-<img src="Pics/big_ratPic.jpg" width="256"> <img src="Pics/cobraPic.jpg" width="256"> <img src="Pics/jackalsPic.jpg" width="256">
+<img src="Pics/big_ratPic.jpg" width="256"> <img src="Pics/cobraPic.jpg" width="256"> <img src="Pics/punaPic.jpg" width="256"> <img src="Pics/sophiaPic.jpg" width="256"> <img src="Pics/jackalsPic.jpg" width="256">
 
 
 # Descriptions.
@@ -20,9 +22,21 @@
     In TEN version 1.0.6 (unreleased yet) fixs the bug that crashes the game when big rats are killed.
 ### TR3 Cobras
     Fixed the death state of animation 4, setting state from 0 to 4 to avoid it getting freeze on death.
+### TR3 Puna & Lizard
+    Provided special effects for shield and death explossion.
+### TR3 Sophia Leight
+    Provided special effects for shield and death explossion.
+    Provided edited ENERGY_BUBBLES which includes proyectiles for Sophia
+        
+    **OCB**
+    - 0: Classic enemy behaviour
+    - 1: Tower mode. (TR3 behaviour)
+    - 2: Tower mode with lua
 ### TR4 Jackals
     Fixed the animation 10 to can manage the a State 12, allowing it to return animation 23.
     
     **OCB**
     - 0: Normal behaviour
     - 1: Jackals start laying down like statues, enable by trigger for them "wake up"
+
+    
