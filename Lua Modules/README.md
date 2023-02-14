@@ -11,19 +11,18 @@ For example: m_ElectricCleaner = require ("Utils.obj_ElectricCleaner")
 # Level example code:
 ```lua
 LevelFuncs.OnStart = function() 
-	InitializeModules ()
+    InitializeModules ()
 end
 
 LevelFuncs.OnControlPhase = function(dt)
-	DeltaTime = dt
+    DeltaTime = dt
 end
 
 LevelFuncs.OnEnd = function() 
 end
 
 LevelFuncs.OnLoad = function() 
-	InitializeModules ()
-
+    InitializeModules ()
 end
 
 LevelFuncs.OnSave = function() 
@@ -34,7 +33,7 @@ function InitializeModules ()
     m_Guide = require ("Utils.obj_Guide")
 end
 
------------
+---------- My Level functions ----------
 
 LevelFuncs.SetCleanerSpeedDouble = function (Triggerer, objectName)
     local moveable = GetMoveableByName (objectName)
