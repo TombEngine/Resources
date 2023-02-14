@@ -1,3 +1,6 @@
+# Introduction:
+A lua module, is an external file that contain a group of functions or data that may be used in your level lua file. For example, for objects management functions, or mathematical rutines. Although their use is not compulsory, in some cases they may be helpful.
+
 # Instructions:
 
 - Put the file in the Scripts folder that is in your project. (You can put it in subfolders to organize it too, for example, Scripts/Utils/ )
@@ -50,3 +53,6 @@ LevelFuncs.GuideToNextNode = function (Triggerer, objectName)
     m_Guide.GoNextNode (moveable)
 end
 ```
+# Collaboration:
+If you have made a lua module and want to share it here, please contact with the TEN development team at:
+- https://discord.gg/Tef4mrpb
