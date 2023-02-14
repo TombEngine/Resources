@@ -1,3 +1,6 @@
+# Introduction:
+A lua module, is an external file that contain a group of functions or data that may be used in your level lua file. For example, for objects management functions, or mathematical rutines. Although their use is not compulsory, in some cases they may be helpful.
+
 # Instructions:
 
 - Put the file in the Scripts folder that is in your project. (You can put it in subfolders to organize it too, for example, Scripts/Utils/ )
@@ -11,39 +14,38 @@ For example: m_ElectricCleaner = require ("Utils.obj_ElectricCleaner")
 # Level example code:
 ```lua
 LevelFuncs.OnStart = function() 
-	InitializeModules ()
+    InitializeModules ()
 end
 
 LevelFuncs.OnControlPhase = function(dt)
-	DeltaTime = dt
+    DeltaTime = dt
 end
 
 LevelFuncs.OnEnd = function() 
 end
 
 LevelFuncs.OnLoad = function() 
-	InitializeModules ()
-
+    InitializeModules ()
 end
 
 LevelFuncs.OnSave = function() 
 end
 
 function InitializeModules ()
-	m_ElectricCleaner = require ("Utils.obj_ElectricCleaner")
+    m_ElectricCleaner = require ("Utils.obj_ElectricCleaner")
     m_Guide = require ("Utils.obj_Guide")
 end
 
------------
+---------- My Level functions ----------
 
 LevelFuncs.SetCleanerSpeedDouble = function (Triggerer, objectName)
-	local moveable = GetMoveableByName (objectName)
-	m_ElectricCleaner.SetMovementSpeed(moveable, 128)
+    local moveable = GetMoveableByName (objectName)
+    m_ElectricCleaner.SetMovementSpeed(moveable, 128)
 end
 
 LevelFuncs.SetCleanerSpeedDefault = function (Triggerer, objectName)
-	local moveable = GetMoveableByName (objectName)
-	m_ElectricCleaner.SetMovementSpeed(moveable, 64)
+    local moveable = GetMoveableByName (objectName)
+    m_ElectricCleaner.SetMovementSpeed(moveable, 64)
 end
 
 LevelFuncs.GuideToNextNode = function (Triggerer, objectName)
@@ -51,3 +53,6 @@ LevelFuncs.GuideToNextNode = function (Triggerer, objectName)
     m_Guide.GoNextNode (moveable)
 end
 ```
+# Collaboration:
+If you have made a lua module and want to share it here, please contact with the TEN development team at:
+- https://discord.gg/Tef4mrpb
