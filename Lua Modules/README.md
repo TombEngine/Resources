@@ -30,20 +30,20 @@ LevelFuncs.OnSave = function()
 end
 
 function InitializeModules ()
-	m_ElectricCleaner = require ("Utils.obj_ElectricCleaner")
+    m_ElectricCleaner = require ("Utils.obj_ElectricCleaner")
     m_Guide = require ("Utils.obj_Guide")
 end
 
 -----------
 
 LevelFuncs.SetCleanerSpeedDouble = function (Triggerer, objectName)
-	local moveable = GetMoveableByName (objectName)
-	m_ElectricCleaner.SetMovementSpeed(moveable, 128)
+    local moveable = GetMoveableByName (objectName)
+    m_ElectricCleaner.SetMovementSpeed(moveable, 128)
 end
 
 LevelFuncs.SetCleanerSpeedDefault = function (Triggerer, objectName)
-	local moveable = GetMoveableByName (objectName)
-	m_ElectricCleaner.SetMovementSpeed(moveable, 64)
+    local moveable = GetMoveableByName (objectName)
+    m_ElectricCleaner.SetMovementSpeed(moveable, 64)
 end
 
 LevelFuncs.GuideToNextNode = function (Triggerer, objectName)
