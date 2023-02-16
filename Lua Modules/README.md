@@ -55,4 +55,4 @@ end
 ```
 # Collaboration:
 If you have made a lua module and want to share it here, please contact with the TEN development team at:
-- https://discord.gg/Tef4mrpb
+- https://discord.gg/h5tUYFmres
