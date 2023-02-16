@@ -17,28 +17,28 @@
 
 # Descriptions.
 ### TR1 Big Rat
-    Minimal required version: TEN 1.0.6
-    Combined the animations of Land and Water rats, applied the new states. 
-	I had to add sounds manually to the water animations for this object version.
-    In TEN version 1.0.6 (unreleased yet) fixs the bug that crashes the game when big rats are killed.
+- Minimal required version: TEN 1.0.6
+- Combined the animations of Land and Water rats, applied the new states. 
+- I had to add sounds manually to the water animations for this object version.
+
 ### TR3 Cobras
-    Minimal required version: TEN 1.0.1
-    Fixed the death state of animation 4, setting state from 0 to 4 to avoid it getting freeze on death.
+- Minimal required version: TEN 1.0.1
+- Fixed the death state of animation 4, setting state from 0 to 4 to avoid it getting freeze on death.
 ### TR3 Puna & Lizard
-    Minimal required version: TEN 1.0.6
-    Provided special effects for shield and death explossion.
+- Minimal required version: TEN 1.0.6
+- Provided special effects for shield and death explossion.
 ### TR3 Sophia Leight
-    Minimal required version: TEN 1.0.7
-    Provided special effects for shield and death explossion.
-    Provided edited ENERGY_BUBBLES which includes proyectiles for Sophia
+- Minimal required version: TEN 1.0.7
+- Provided special effects for shield and death explossion.
+- Provided edited ENERGY_BUBBLES which includes proyectiles for Sophia
         
     **OCB**
     - 0: Classic enemy behaviour
     - 1: Tower mode. (TR3 behaviour)
     - 2: Tower mode with lua
 ### TR4 Jackals
-    Minimal required version: TEN 1.0.1
-    Fixed the animation 10 to can manage the a State 12, allowing it to return animation 23.
+- Minimal required version: TEN 1.0.1
+- Fixed the animation 10 to can manage the a State 12, allowing it to return animation 23.
     
     **OCB**
     - 0: Normal behaviour
