@@ -2,7 +2,7 @@
 - Download the desired wad2 pressing the right button of the mouse on them and selecting the download link source option.
 - You can import to your Tomb Editor level with the option in "Tools > Level Setting > Object Files".
 - You can also use Wad Tool to include them in your wad2 pack.
-- No credit to me is required for these objects.
+- No credit is required for these objects.
 
 # Historial:
 - Added TR3 Sophia
