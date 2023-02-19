@@ -27,7 +27,7 @@
 ### TR3 Puna & Lizard
 - Minimal required version: TEN 1.0.6
 - Provided special effects for shield and death explossion.
-### TR3 Sophia Leight
+### TR3 Sophia Leigh
 - Minimal required version: TEN 1.0.7
 - Provided special effects for shield and death explossion.
 - Provided edited ENERGY_BUBBLES which includes proyectiles for Sophia
