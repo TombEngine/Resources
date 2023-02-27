@@ -1,0 +1,7 @@
+Installation:
+
+Place the .spritefont file inside your "engine / textures " file and RENAME to "FONT" (case sensitive).
+
+Fonts avaliable:
+
+Ondine (TR4 default)
