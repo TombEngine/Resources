@@ -4,13 +4,6 @@
 - You can also use Wad Tool to include them in your wad2 pack.
 - No credit is required for these objects.
 
-# Historial:
-- Added TR3 Sophia
-- Added TR3 Puna and Lizard
-- Added TR1 big rat
-- Added TR4 jackals
-- Added TR3 cobras
-
 # Gallery:
 ### Enemies
 <img src="Pics/big_ratPic.jpg" width="256"> <img src="Pics/cobraPic.jpg" width="256"> <img src="Pics/punaPic.jpg" width="256"> <img src="Pics/sophiaPic.jpg" width="256"> <img src="Pics/waspPic.jpg" width="256"> <img src="Pics/WillardPic.jpg" width="256"> <img src="Pics/jackalsPic.jpg" width="256"> <img src="Pics/ImpPic.jpg" width="256"> <img src="Pics/swatsPic.jpg" width="256"> <img src="Pics/VCIguardPic.jpg" width="256">
