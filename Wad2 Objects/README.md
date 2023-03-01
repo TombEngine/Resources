@@ -9,7 +9,7 @@
 
 # Gallery:
 ### Enemies
-<img src="Pics/big_ratPic.jpg" width="256"> <img src="Pics/jadeStatuesPic.jpg" width="256"> <img src="Pics/cobraPic.jpg" width="256"> <img src="Pics/punaPic.jpg" width="256"> <img src="Pics/sophiaPic.jpg" width="256"> <img src="Pics/waspPic.jpg" width="256"> <img src="Pics/WillardPic.jpg" width="256"> <img src="Pics/jackalsPic.jpg" width="256"> <img src="Pics/ImpPic.jpg" width="256"> <img src="Pics/swatsPic.jpg" width="256"> <img src="Pics/VCIguardPic.jpg" width="256">
+<img src="Pics/big_ratPic.jpg" width="256"> <img src="Pics/jadeStatuesPic.jpg" width="256"> <img src="Pics/cobraPic.jpg" width="256"> <img src="Pics/punaPic.jpg" width="256"> <img src="Pics/sophiaPic.jpg" width="256"> <img src="Pics/waspPic.jpg" width="256"> <img src="Pics/WillardPic.jpg" width="256"> <img src="Pics/BaboonsPic.jpg" width="256"> <img src="Pics/jackalsPic.jpg" width="256"> <img src="Pics/ImpPic.jpg" width="256"> <img src="Pics/swatsPic.jpg" width="256"> <img src="Pics/VCIguardPic.jpg" width="256">
 
 ### Objects
 <img src="Pics/slammingDoorBPic.jpg" width="256"> <img src="Pics/slammingDoorPic.jpg" width="256"> <img src="Pics/RobotClawPic.jpg" width="256">
@@ -43,6 +43,10 @@
 - Statue material updated with specular effect
 ### TR3 Willard
 - Minimal required version: WIP
+### TR4 Baboons
+- Minimal required version: TEN 1.0.1
+- Fixed invisible baboon material so it can cast its specular shine despite its invisible colors.
+- Cloned normal baboon animations on invisible and silent baboons. (Required fix after 1.0.6).
 ### TR4 Jackals
 - Minimal required version: TEN 1.0.1
 - Fixed the animation 10 to can manage the a State 12, allowing it to return animation 23.
@@ -56,11 +60,10 @@
 ### TR5 Swats
 - Minimal required version: TEN 1.0.1
 - Fixed the shooting animation
-- Animations cloned to the secondary swat
+- Animations cloned to the secondary swat. (Required fix after 1.0.6).
  ### TR5 VCI guard
  - Minimal required version: TEN 1.0.1
  - Fixed the shooting animation
-
 ### TR1 Slamming Doors
 - Minimal required version: TEN 1.0.8
 ### TR3 Slamming Doors
