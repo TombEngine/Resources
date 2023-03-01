@@ -12,8 +12,11 @@
 - Added TR3 cobras
 
 # Gallery:
-<img src="Pics/big_ratPic.jpg" width="256"> <img src="Pics/cobraPic.jpg" width="256"> <img src="Pics/punaPic.jpg" width="256"> <img src="Pics/sophiaPic.jpg" width="256"> <img src="Pics/jackalsPic.jpg" width="256">
+### Enemies
+<img src="Pics/big_ratPic.jpg" width="256"> <img src="Pics/cobraPic.jpg" width="256"> <img src="Pics/punaPic.jpg" width="256"> <img src="Pics/sophiaPic.jpg" width="256"> <img src="Pics/waspPic.jpg" width="256"> <img src="Pics/WillardPic.jpg" width="256"> <img src="Pics/jackalsPic.jpg" width="256"> <img src="Pics/ImpPic.jpg" width="256"> <img src="Pics/swatsPic.jpg" width="256"> <img src="Pics/VCIguardPic.jpg" width="256">
 
+### Objects
+<img src="Pics/slammingDoorBPic.jpg" width="256"> <img src="Pics/slammingDoorPic.jpg" width="256">
 
 # Descriptions.
 ### TR1 Big Rat
