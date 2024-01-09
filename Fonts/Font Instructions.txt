@@ -4,7 +4,8 @@ Place the .spritefont file inside your "engine / textures " file and RENAME to "
 
 Fonts avaliable:
 
-Ondine (TR4 default)
-Tomb Raider (Author: "Navin_Ad" , resembles Tomb Raider (2013) font : https://www.dafont.com/tomb-raider2.font )
-TR (Author unknown. Resembles Tomb Raider (2001) / Tomb Raider: The Cradle of Light (2003) font https://www.dafont.com/tomb-raider.font)
-Viner Hand ITC (Author unknown , resembles Tomb Raider: The Angel of Darkness menu font)
+* Tomb1_Tomb2_Font - TR1 / TR2 font. Colour the text in-engine manually.
+* Tomb_Raider_4_Font (TR4 default)
+* Tomb Raider (Author: "Navin_Ad" , resembles Tomb Raider (2013) font : https://www.dafont.com/tomb-raider2.font )
+* TR (Author unknown. Resembles Tomb Raider (2001) / Tomb Raider: The Cradle of Light (2003) font https://www.dafont.com/tomb-raider.font)
+* Tomb_Raider_AOD_Font (Author unknown , resembles Tomb Raider: The Angel of Darkness menu font)
