@@ -1,5 +1,5 @@
 
-# TEN_Resources
+# Tomb Engine Resources
 Wads and Lua modules for TEN Engine.
 
 - Added some classic objects adapted for TEN Engine that can be included with WadTool or simply adding them to the level with Tomb Editor.
