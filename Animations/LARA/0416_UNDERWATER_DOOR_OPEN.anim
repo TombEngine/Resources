@@ -16278,31 +16278,31 @@
             <Type>PlaySound</Type>
             <Parameter1>10</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>2</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>57</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>2</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>97</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>2</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>38</Parameter1>
             <Parameter2>50</Parameter2>
-            <Parameter3>2</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>90</Parameter1>
             <Parameter2>50</Parameter2>
-            <Parameter3>2</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
     </AnimCommands>
 </WadAnimation>

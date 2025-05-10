@@ -18414,7 +18414,7 @@
             <Type>PlaySound</Type>
             <Parameter1>128</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>0</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>FlipEffect</Type>

@@ -9480,19 +9480,19 @@
             <Type>PlaySound</Type>
             <Parameter1>30</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>2</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>56</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>2</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>52</Parameter1>
             <Parameter2>61</Parameter2>
-            <Parameter3>2</Parameter3>
+            <Parameter3>4</Parameter3>
         </WadAnimCommand>
     </AnimCommands>
 </WadAnimation>

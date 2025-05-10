@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <WadAnimation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <FrameRate>1</FrameRate>
-    <StateId>0</StateId>
+    <StateId>37</StateId>
     <EndFrame>214</EndFrame>
     <NextAnimation>11</NextAnimation>
     <NextFrame>0</NextFrame>
