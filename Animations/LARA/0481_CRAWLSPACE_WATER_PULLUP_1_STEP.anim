@@ -5,7 +5,7 @@
     <EndFrame>41</EndFrame>
     <NextAnimation>222</NextAnimation>
     <NextFrame>0</NextFrame>
-    <Name>1C_CRAWLSPACE_WATER_PULLUP</Name>
+    <Name>CRAWLSPACE_WATER_PULLUP_1_STEP</Name>
     <StartVelocity>0</StartVelocity>
     <EndVelocity>0</EndVelocity>
     <StartLateralVelocity>0</StartLateralVelocity>

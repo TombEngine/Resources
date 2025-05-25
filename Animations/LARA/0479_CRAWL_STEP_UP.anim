@@ -5,7 +5,7 @@
     <EndFrame>48</EndFrame>
     <NextAnimation>263</NextAnimation>
     <NextFrame>0</NextFrame>
-    <Name>1C_ASCEND_IN_CRAWLSPACE</Name>
+    <Name>CRAWL_STEP_UP</Name>
     <StartVelocity>0</StartVelocity>
     <EndVelocity>0</EndVelocity>
     <StartLateralVelocity>0</StartLateralVelocity>

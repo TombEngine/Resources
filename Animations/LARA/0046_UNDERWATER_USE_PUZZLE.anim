@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <WadAnimation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <FrameRate>1</FrameRate>
-    <StateId>13</StateId>
+    <StateId>43</StateId>
     <EndFrame>148</EndFrame>
     <NextAnimation>108</NextAnimation>
     <NextFrame>17</NextFrame>
@@ -18816,25 +18816,25 @@
             <Type>PlaySound</Type>
             <Parameter1>8</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>4</Parameter3>
+            <Parameter3>0</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>58</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>4</Parameter3>
+            <Parameter3>0</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>109</Parameter1>
             <Parameter2>345</Parameter2>
-            <Parameter3>4</Parameter3>
+            <Parameter3>0</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>PlaySound</Type>
             <Parameter1>124</Parameter1>
             <Parameter2>35</Parameter2>
-            <Parameter3>4</Parameter3>
+            <Parameter3>0</Parameter3>
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>FlipEffect</Type>
