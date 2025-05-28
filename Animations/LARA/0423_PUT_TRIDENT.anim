@@ -39158,5 +39158,11 @@
             <Parameter2>1</Parameter2>
             <Parameter3>-2</Parameter3>
         </WadAnimCommand>
+        <WadAnimCommand>
+            <Type>FlipEffect</Type>
+            <Parameter1>180</Parameter1>
+            <Parameter2>13</Parameter2>
+            <Parameter3>0</Parameter3>
+        </WadAnimCommand>
     </AnimCommands>
 </WadAnimation>
