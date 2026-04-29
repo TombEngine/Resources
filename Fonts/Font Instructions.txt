@@ -9,3 +9,4 @@ Fonts avaliable:
 * Tomb Raider (Author: "Navin_Ad" , resembles Tomb Raider (2013) font : https://www.dafont.com/tomb-raider2.font )
 * TR (Author unknown. Resembles Tomb Raider (2001) / Tomb Raider: The Cradle of Light (2003) font https://www.dafont.com/tomb-raider.font)
 * Tomb_Raider_AOD_Font (Author unknown , resembles Tomb Raider: The Angel of Darkness menu font)
+* Noto_Sans_MultiLingual (multi-lingual). Contains a blend of Noto Sans, Noto Sans Arabic and Noto-Sans Gurmukhi. USE THIS FOR MULTI-LINGUAL levels.
