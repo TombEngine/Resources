@@ -7,3 +7,5 @@ Wads and Lua modules for TEN Engine.
 - Added some lua modules, files with collection of functions that can be use in the levels lua files.
 
 - Information about entities provided in the Wiki (button in the upper bar).
+
+All these resouces are avaible [In the Tomb Engine Site](https://tombengine.com/assets/) in the assets section
